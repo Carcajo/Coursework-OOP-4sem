@@ -1,0 +1,155 @@
+{
+    "Can you check if your microphone is on, please?": {
+        "ru": "Пожалуйста, проверь, что микрофон включен",
+        "en": "Can you check if your microphone is on, please?"
+    },
+    "What did you say again?": {
+        "ru": "Пожалуйста, повтори",
+        "en": "What did you say again?"
+    },
+    "Hello, {}! My name is Friday. I am your assistant": {
+        "ru": "Привет. Меня зовут пятница. Я твой помошник",
+        "en": "Hello, {}! My name is Friday.I am your assistant"
+    },
+    "Seems like we have a trouble. See logs for more information": {
+        "ru": "Появилась ошибочка. Посмотри логи",
+        "en": "Seems like we have a trouble. See logs for more information"
+    },
+    "Hello, {}! How can I help you today?": {
+        "ru": "Привет, {}, братишка! Чем могу помочь?",
+        "en": "Hello, {}! How can I help you today?"
+    },
+    "Good day to you {}! How can I help you today?": {
+        "ru": "Здравствуй, {}! Какой план на сегодня?",
+        "en": "Good day to you {}! How can I help you today?"
+    },
+    "Goodbye, {}! Have a nice day!": {
+        "ru": "До связи, {}! Зови если что!",
+        "en": "Goodbye, {}! Have a nice day!"
+    },
+    "Completing the program!": {
+        "ru": "Завершаю программу!",
+        "en": "Completing the program!"
+    },
+    "See you soon, {}!": {
+        "ru": "До скорого, {}! ",
+        "en": "See you soon, {}!"
+    },
+    "Here is what I found for {} on google": {
+        "ru": "Вот, что умне удалось найти по запросу {} в Гугл",
+        "en": "Here is what I found for {} on google"
+    },
+    "Here is what I found for {} on youtube": {
+        "ru": "Зацени что нашла по запросу {} на Ютуб",
+        "en": "Here is what I found for {} on youtube"
+    },
+    "Here is what I found for {} on Wikipedia": {
+        "ru": "Вот, что умне удалось найти по запросу {} в Википедии",
+        "en": "Here is what I found for {} on Wikipedia"
+    },
+    "Can't find {} on Wikipedia. But here is what I found on google": {
+        "ru": "Не могу найти в Википедии ничего по запросу {}. Но вот, что мне удалось найти в Гугл",
+        "en": "Can't find {} on Wikipedia. But here is what I found on google"
+    },
+    "It is {0} in {1}": {
+        "ru": "Сейчас {0} в городе {1}",
+        "en": "It is {0} in {1}"
+    },
+    "The temperature is {} degrees Celsius": {
+        "ru": "Температура {} градусов Цельсия",
+        "en": "The temperature is {} degrees Celsius"
+    },
+    "Ad on the sex shop window: New! Inflatable Voodoo doll! Now you can stick more than just a needle into your enemy": {
+        "ru": "Объявление на витрине ceкс- шопа: Новинка! Надувная кукла Вуду! Теперь вы можете воткнуть в своего врага не только иголку",
+        "en": "Ad on the sex shop window: New! Inflatable Voodoo doll! Now you can stick more than just a needle into your enemy"
+    },
+
+    "The wind speed is {} meters per second": {
+        "ru": "Скорость ветра {} метров в секунду",
+        "en": "The wind speed is {} meters per second"
+    },
+    "If everything goes according to plan nah * y, nah *y such a plan!": {
+        "ru": "Если по плану всё идёт нахуй, нахуй такой план!",
+        "en": "If everything goes according to plan nah * y, nah *y such a plan!"
+    },
+    "Dad, did you pass the DNA test? Call me Uncle Vitya!": {
+        "ru": "Папа, ты сдал тест ДНК? Называй меня дядя Витя!",
+        "en": "Dad, did you pass the DNA test? Call me Uncle Vitya!"
+    },
+    "Do not be afraid to be *banished — everything is fine, everyone is their own here!": {
+        "ru": "Не надо бояться быть ебанутым — все нормально, здесь все свои!",
+        "en": "Do not be afraid to be *banished — everything is fine, everyone is their own here!"
+    },
+    "The Russian language is great and powerful, and the rhyme for the word star always comes to mind the same!": {
+        "ru": "Велик и могуч русский язык, а рифма к слову звезда всегда в голову лезет одна и та же",
+        "en": "The Russian language is great and powerful, and the rhyme for the word star always comes to mind the same!"
+    },
+    "The pressure is {} mm Hg": {
+        "ru": "Давление {} миллиметров ртутного столба",
+        "en": "The pressure is {} mm Hg"
+    },
+    "Here is what I found for {} on social nets": {
+        "ru": "Вот, что мне удалось найти по запросу {} в социальных сетях",
+        "en": "Here is what I found for {} on social nets"
+    },
+    "won": {
+        "ru": "победили",
+        "en": "won"
+    },
+    "Tails": {
+        "ru": "Решки",
+        "en": "Tails"
+    },
+    "Heads": {
+        "ru": "Орлы",
+        "en": "Heads"
+    },
+    "Can you repeat, please?": {
+        "ru": "Можешь повторить?",
+        "en": "Can you repeat, please?"
+    },
+    "Here is what I found for {} on kinogo": {
+        "ru": "Вот что ты хотел на киного",
+        "en": "Here is what I found for {} on kinogo"
+    },
+    "Opening a website": {
+        "ru": "Открываю ИИС",
+        "en": "Opening a website"
+    },
+    "{}": {
+        "ru": "{}",
+        "en": "{}"
+    },
+    "Take a drag man": {
+        "ru": "Сделай затяжку, паренёк",
+        "en": "Take a drag man "
+    },
+    "Perform!": {
+        "ru": "Выполняю!",
+        "en": "Perform!"
+    },
+    "": {
+        "ru": "",
+        "en": " "
+    },
+    "": {
+        "ru": "",
+        "en": " "
+    },
+    "": {
+        "ru": "",
+        "en": " "
+    },
+    "": {
+        "ru": "",
+        "en": " "
+    },
+    "": {
+        "ru": "",
+        "en": " "
+    },
+    "": {
+        "ru": "",
+        "en": " "
+    }
+}
